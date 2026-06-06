@@ -34,6 +34,7 @@ That is what this gives you.
 |------|----------------|
 | `QUICKSTART.md` | The shortest path from download to useful AI session |
 | `BEFORE_AFTER.md` | Shows the practical difference between vague prompting and packed context |
+| `COMPATIBILITY.md` | How this works with OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, and Gemini |
 | `SECURITY.md` | Explains local-first privacy and what not to paste into AI tools |
 | `WINDOWS.md` | Notes for WSL, Git Bash, and Windows users |
 | `docs/CONTEXT.md` | The current project goal, state, priority, constraints, and open questions |
@@ -52,6 +53,7 @@ That is what this gives you.
 
 - New here? Read `QUICKSTART.md`.
 - Want the proof? Read `BEFORE_AFTER.md`.
+- Using OpenClaw, Hermes, Claude, Codex, Cursor, or Gemini? Read `COMPATIBILITY.md`.
 - Worried about privacy? Read `SECURITY.md`.
 - On Windows? Read `WINDOWS.md`.
 

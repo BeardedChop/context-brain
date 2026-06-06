@@ -16,6 +16,14 @@ _Add the newest decisions to the top._
 ---
 
 - Date: 2026-06-06
+- Decision: Add compatibility docs for OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, and Gemini.
+- Why: The kit's value is tool-agnostic context discipline, not one platform-specific integration.
+- Tradeoffs: Compatibility is guidance, not deep native integration.
+- Follow-up: Add agent-specific examples later if users ask for them.
+
+---
+
+- Date: 2026-06-06
 - Decision: Add quickstart, before/after, examples, security, and Windows notes before GitHub push.
 - Why: The repo needs obvious immediate value, proof of difference, and safety clarity for beginners.
 - Tradeoffs: More docs, but each one has a clear public-facing job.
