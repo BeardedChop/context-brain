@@ -1,0 +1,6 @@
+# internal docs — never public
+*LAUNCH*
+
+.context/
+node_modules/
+.DS_Store
