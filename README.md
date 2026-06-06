@@ -32,6 +32,10 @@ That is what this gives you.
 
 | Thing | Why it matters |
 |------|----------------|
+| `QUICKSTART.md` | The shortest path from download to useful AI session |
+| `BEFORE_AFTER.md` | Shows the practical difference between vague prompting and packed context |
+| `SECURITY.md` | Explains local-first privacy and what not to paste into AI tools |
+| `WINDOWS.md` | Notes for WSL, Git Bash, and Windows users |
 | `docs/CONTEXT.md` | The current project goal, state, priority, constraints, and open questions |
 | `docs/ARCHITECTURE.md` | The map that stops AI from inventing a new structure every session |
 | `docs/DECISIONS.md` | A short log of decisions so old choices do not get undone by accident |
@@ -42,6 +46,14 @@ That is what this gives you.
 | `prompts/session-start.md` | Copy/paste prompt for starting a better AI session |
 | `prompts/session-end.md` | Copy/paste prompt for closing the loop |
 | `templates/` | Web, API, and CLI starter brain layouts |
+| `examples/` | Bad/good session examples and a sample packed context |
+
+## Start Here
+
+- New here? Read `QUICKSTART.md`.
+- Want the proof? Read `BEFORE_AFTER.md`.
+- Worried about privacy? Read `SECURITY.md`.
+- On Windows? Read `WINDOWS.md`.
 
 ## 60-Second Demo
 
@@ -236,6 +248,14 @@ Skip it if:
 - stack-specific editions for Next.js, Python, and React Native
 - token/noise checklist
 - optional premium kits
+
+## The Tiny Promise
+
+Clone it. Fill in the brain. Run the packer. Paste the context.
+
+Your AI coding session starts with the project goal, architecture, decisions, constraints, and next action before it touches code.
+
+That is the whole win.
 
 MIT. do whatever you want with these.
 

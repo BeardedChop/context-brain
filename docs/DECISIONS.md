@@ -16,6 +16,14 @@ _Add the newest decisions to the top._
 ---
 
 - Date: 2026-06-06
+- Decision: Add quickstart, before/after, examples, security, and Windows notes before GitHub push.
+- Why: The repo needs obvious immediate value, proof of difference, and safety clarity for beginners.
+- Tradeoffs: More docs, but each one has a clear public-facing job.
+- Follow-up: Keep docs short and remove anything that starts feeling like homework.
+
+---
+
+- Date: 2026-06-06
 - Decision: Add a safe installer script for existing projects.
 - Why: The fastest value path is installing ContextBrain into an existing repo without manually copying ten files.
 - Tradeoffs: Bash-first workflow is still weaker on Windows.

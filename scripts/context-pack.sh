@@ -65,6 +65,8 @@ echo >> "$OUT_FILE"
 echo "Ask the assistant to summarize the project, current priority, constraints, open decisions, and smallest safe next step before editing code." >> "$OUT_FILE"
 
 append_file "README.md" "$ROOT_DIR/README.md"
+append_file "QUICKSTART.md" "$ROOT_DIR/QUICKSTART.md"
+append_file "BEFORE_AFTER.md" "$ROOT_DIR/BEFORE_AFTER.md"
 append_file "CLAUDE.md" "$ROOT_DIR/CLAUDE.md"
 append_file "docs/CONTEXT.md" "$ROOT_DIR/docs/CONTEXT.md"
 append_file "docs/ARCHITECTURE.md" "$ROOT_DIR/docs/ARCHITECTURE.md"

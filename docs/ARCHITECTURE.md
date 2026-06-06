@@ -9,6 +9,8 @@
 - `prompts/` — copy/paste AI prompts for session start and session end
 - `scripts/` — helper scripts for packing context and installing the kit into existing projects
 - `templates/` — starter brain layouts for common project types
+- `examples/` — bad/good session examples and sample packed context
+- `QUICKSTART.md`, `BEFORE_AFTER.md`, `SECURITY.md`, `WINDOWS.md` — public-facing orientation docs
 
 ## File structure rules
 - keep features grouped logically
